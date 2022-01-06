@@ -15,3 +15,4 @@ This is **not a free service.** The **fee** is $5 - $10, cannot be **negotiated*
 
 # Notes!
 Only for **ROBLOX Exploits** and **Custom C++/C# API's or DLL's!**
+Only on Windows 10, Works with Any Visual Studio Edition (2015-2022).
