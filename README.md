@@ -17,3 +17,7 @@ This is **not a free service.** The **fee** is $5 - $10, cannot be **negotiated*
 Only for **ROBLOX Exploits** and **Custom C++/C# API's or DLL's!**
 
 Only on Windows 10, Works with Any Visual Studio Edition (2015-2022).
+
+**Every Injection, A new pipe will be generated, Old pipe will not be used.**
+
+**People may access (or use) your pipe after 1 injection, but that's idiotic.**
