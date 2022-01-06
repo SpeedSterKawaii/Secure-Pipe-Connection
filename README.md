@@ -9,6 +9,8 @@ This is **not a free service.** The **fee** is $5 - $10, cannot be **negotiated*
 
 **Accepting PlayStation, ROBLOX, Amazon or any Gift Card that is Worth more then $5.**
 
+**No PayPal, Credit Card, Cashapp, Venmo, or any of these types are accepted.**
+
 ***Message me on Discord: SpeedSterKawaii#7758, for Backup: speedsterscripts@gmail.com!***
 
 ```There is no returns, once you purchase it, it cannot be returned.```
