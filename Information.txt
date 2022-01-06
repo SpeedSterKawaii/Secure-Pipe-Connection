@@ -1,0 +1,13 @@
+
+Secure ROBLOX Exploit Pipe Connection Information; 
+Modified & Written on 1/6/2022 (Jan 6th, 2022).
+(https://github.com/SpeedSterKawaii/Secure-Pipe-Connection):
+
+What is Secure RBX Pipe Connection?
+This method (and code) is a secure way of executing scripts with your exploit to ROBLOX. And this method is similar to Synapse X's random pipe connection. As if you don't know, if anyone leaks your desinated connection's name (pipe name) and anyone with the pipe can easily access it with their custom features (design, messages, watermark, etc). The point is that "Secure RBX Pipe Connection" hides your real pipe! No one can tamper with your exploit's pipe.
+
+How to Use Secure RBX Pipe Connection?
+The Team (or any of the developers or owner) of Speed Softwares (Not SSP) will give you a Source Example, Instructions, and Sample Code(s). You have to paste the code into your C++ .dll exploit project, NOT C# API or Exploit Project! This will hide your pipe away from skids.
+
+Warnings, and Code Information?
+You cannot access the pipe name, the C# code will automatically read the pipe generated name.
