@@ -7,3 +7,6 @@ I'm tired of skids attempting to skid my pipe, so I developed this. A secure way
 This is **not a free service.** The **fee** is $5 - $10, cannot be **negotiated**.
 
 **Accepting PlayStation, ROBLOX, Amazon or any Gift Card that is Worth more then $5.**
+
+
+```There is no returns, once you purchase it, it cannot be returned.```
