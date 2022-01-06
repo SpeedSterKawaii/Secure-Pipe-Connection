@@ -1,4 +1,5 @@
 # Secure-Pipe-Connection!
+
 I'm tired of skids attempting to skid my pipe, so I developed this. A secure way of scaring off pipe skidders.
 
 **Please read Information.txt as it has all of the information you may ask for.**
@@ -11,3 +12,6 @@ This is **not a free service.** The **fee** is $5 - $10, cannot be **negotiated*
 ***Message me on Discord: SpeedSterKawaii#7758, for Backup: speedsterscripts@gmail.com!***
 
 ```There is no returns, once you purchase it, it cannot be returned.```
+
+# Notes!
+Only for **ROBLOX Exploits** and **Custom C++/C# API's or DLL's!**
