@@ -23,3 +23,11 @@ Only on Windows 10, Works with Any Visual Studio Edition (2015-2022).
 **Every Injection, A new pipe will be generated, Old pipe will not be used.**
 
 **People may access (or use) your pipe after 1 injection, but that's idiotic.**
+
+# What is Included!
+
+DLL Source Code Example, $5, Example (Does not Include: DLL Exploit Code (ex: ExecuteScript, GetDataModel), etc.
+
+**Dll Source has the Secure Pipe Connection code, and fairly working RBX injection.**
+
+API Source (Full), $3 + tax ($2) (Has ExecuteCode, NamedPipeExist, string Pipe).
