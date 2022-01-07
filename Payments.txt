@@ -6,3 +6,5 @@ Please note, This is NOT a Free Service! (Updated 1/7/2022).
 Payments can include: Gift Cards (ROBLOX, PlayStation, Amazon, etc) are only accepted. Gift cards is the only way you can redeem a purchase, we don't accept services like: PayPal, Credit Card, & etc. If you don't have a Gift Card, Only If you have a RBX group, you may fund the R$.
 
 Please, Note that there are 2 types of sources (DLL is C++ and API is C#), These both are not included, the DLL is fairly $5 and the API (c#) is $3 (total rounding to $8), tax is included (+$2).
+
+NOTE: YOU NEED THE DLL SOURCE AND THE API SOURCE FOR IT TO FULLY WORK. IF YOU ARE SMART ENOUGH, YOU MAY FINISH THE C# PROJECT BUT THE PRICE WILL STILL BE $7.
