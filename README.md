@@ -26,6 +26,8 @@ Only on Windows 10, Works with Any Visual Studio Edition (2015-2022).
 
 **People may access (or use) your pipe after 1 injection, but that's idiotic.**
 
+Edit: I've leaked the method, but it'll cost you.
+
 # What is Included!
 
 DLL Source Code Example, $5, Example (Does not Include: DLL Exploit Code (ex: ExecuteScript, GetDataModel), etc.
