@@ -30,8 +30,6 @@ Edit: I've leaked the method, but it'll cost you.
 
 # What is Included!
 
-DLL Source Code Example, $5, Example (Does not Include: DLL Exploit Code (ex: ExecuteScript, GetDataModel), etc.
+DLL only ($5) + Tax ($2) + API ($3).
 
-**Dll Source has the Secure Pipe Connection code, and fairly working RBX injection.**
-
-API Source (Full), $3 + tax ($2) (Has ExecuteCode, NamedPipeExist, string Pipe).
+**You will NOT get the dll source, in order to get the dll source the price will increase by 3% which is $18 worth in gift cards.**
